@@ -1,0 +1,8 @@
+D:\PHINAM\Project\C#\Project_Inventory_Manager\Project_Inventory_Manager\bin\Debug\Project_Inventory_Manager.exe.config
+D:\PHINAM\Project\C#\Project_Inventory_Manager\Project_Inventory_Manager\bin\Debug\Project_Inventory_Manager.exe
+D:\PHINAM\Project\C#\Project_Inventory_Manager\Project_Inventory_Manager\bin\Debug\Project_Inventory_Manager.pdb
+D:\PHINAM\Project\C#\Project_Inventory_Manager\Project_Inventory_Manager\obj\Debug\Project_Inventory_Manager.csproj.AssemblyReference.cache
+D:\PHINAM\Project\C#\Project_Inventory_Manager\Project_Inventory_Manager\obj\Debug\Project_Inventory_Manager.csproj.SuggestedBindingRedirects.cache
+D:\PHINAM\Project\C#\Project_Inventory_Manager\Project_Inventory_Manager\obj\Debug\Project_Inventory_Manager.csproj.CoreCompileInputs.cache
+D:\PHINAM\Project\C#\Project_Inventory_Manager\Project_Inventory_Manager\obj\Debug\Project_Inventory_Manager.exe
+D:\PHINAM\Project\C#\Project_Inventory_Manager\Project_Inventory_Manager\obj\Debug\Project_Inventory_Manager.pdb
